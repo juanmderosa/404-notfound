@@ -1,17 +1,12 @@
 
 ## Overview
 
-![screenshot](C:\Users\Usuario\Desktop\devChallenges\404-not-found-master\Screenshot.png)
+![screenshot](Screenshot.png )
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 You can see a live demo at:
-- GitHub Pages [GitHub Pages](https://www.linkedin.com/in/juanmderosa/)
+[GitHub Pages](https://juanmderosa.github.io/404-notfound/)
 
-
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
